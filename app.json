@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "The-Card-Soul",
+    "slug": "The-Card-Soul",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logo.png",
+    "splash": {
+      "image": "./assets/logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#6fc0b8"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+     "android": {
+      "package": "com.bookSanta.bookSanta",
+      "versionCode": 1
+    }
+  }
+}
